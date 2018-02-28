@@ -76,7 +76,7 @@ def main():
     print("Height is : ", aSqure.height)
     print("Width is :", aSqure.width)
     
-    print("Area of Square is : ", aSqure.getArea())
+    print("Area of Square  : ", aSqure.getArea())
     
 main() 
     
